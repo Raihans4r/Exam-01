@@ -1,0 +1,58 @@
+*{
+	width: 100%;
+	float: left;
+
+}
+.container{
+
+
+}
+
+.banner {
+
+	    background: url(../img/bg.jpg)no-repeat;
+    display: block;
+    background-size: cover;
+    float: left;
+}
+
+.learn-more {
+
+
+}
+.learn-more h1{
+
+}
+.learn-more p{
+
+
+}
+
+.form-one{
+
+}
+
+.register {
+ float: left;
+    width: 30%;
+    background-color: blue;
+
+}
+
+.register-top{
+
+
+}
+
+.register-top h2{
+
+}
+
+.register-top p{
+
+
+}
+
+.form-two{
+
+}
